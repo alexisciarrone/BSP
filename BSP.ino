@@ -1,4 +1,4 @@
-//inclusion of all the libaries needed
+//inclusion of all the libraries needed
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_TSL2561_U.h>
